@@ -1,3 +1,3 @@
 # APIcity
 
-- Informações referente ao modulo estão na README dentro do projeto.
+- Informações referente ao projeto estão na README dentro do projeto.
